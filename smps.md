@@ -1,0 +1,1 @@
+https://arduino.stackexchange.com/questions/20963/how-to-change-increase-pwm-frequency-by-changing-resolution
